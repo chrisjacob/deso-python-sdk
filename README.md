@@ -16,7 +16,7 @@ python3 -m venv myenv
 
 source myenv/bin/activate
 
-pip install -r ..\requirements.txt
+pip install -r requirements.txt
 
 python3 deso_sdk.py
 ```
@@ -27,7 +27,7 @@ python3 -m venv myenv
 
 myenv\Scripts\activate
 
-pip install -r requirements.txt
+pip install -r ..\requirements.txt
 
 python3 deso_sdk.py
 ```
