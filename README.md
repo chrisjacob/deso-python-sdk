@@ -122,3 +122,9 @@ Other useful links:
    - [Revolution Proof of Stake](https://revolution.deso.com)
    - [DeSo Architecture Overview (old)](https://docs.deso.org/deso-repos/architecture-overview)
    - [Algorithmic Trading Docs](TODO)
+ 
+## Have more questions?
+
+DeepWiki (powered by Devin AI) provides up-to-date documentation you can talk to for this repo, click the button below to try it out.
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/deso-protocol/deso-python-sdk)
